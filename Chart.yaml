@@ -1,0 +1,5 @@
+apiVersion: v2
+name: helmnamespacedeployment
+descritpion: A helm chart for namespace creation
+type: infrastucture
+version: 0.10
